@@ -2,7 +2,6 @@
 Este repositório contém soluções para o Desafio Flutter Iniciante em Dart e JavaScript.
 
 ## Dart (main.dart)
-
 ### Como Rodar o Projeto
 Certifique-se de ter o ambiente de desenvolvimento Dart instalado.
 1. Clone este repositório: `git clone https://github.com/thayllaa/Desafio_Flutter`.
@@ -17,7 +16,6 @@ dart main.dart
 ``` 
 
 ## JavaScript (main.js)
-
 ### Como Rodar o Projeto
 Certifique-se de ter o ambiente JavaScript (Node.js ou navegador) instalado.
   1. Clone este repositório: `git clone https://github.com/thayllaa/Desafio_Flutter`.
