@@ -17,8 +17,6 @@ Após abrir o projeto no navegador, você verá um formulário simples. Insira u
 - Além do resultado do somatório, agora a aplicação também exibe os números divisíveis que foram somados.
 
 ## Próximos Passos
-Estou aberto a feedbacks e ansioso por novas oportunidades que me permitam continuar crescendo como desenvolvedora. 
-
-Se você tiver alguma dúvida ou sugestão, fique à vontade para compartilhar nos comentários. Obrigado a todos!
+Estou aberto a feedbacks e ansioso por novas oportunidades que me permitam continuar crescendo como desenvolvedora. Obrigado a todos!
 
 #DesafioFlutter #Desenvolvimento #Código #JavaScript
