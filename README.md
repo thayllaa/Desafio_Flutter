@@ -6,9 +6,9 @@ Implemente uma função que receba um número inteiro positivo e retorne o somat
 
 ## Como Rodar o Projeto
 Certifique-se de ter um ambiente JavaScript (Node.js ou navegador) instalado.
-	1. Clone este repositório: `git clone https://github.com/thayllaa/Desafio_Flutter`.
-	2. Navegue até o diretório do projeto: `cd Desafio_Flutter`.
-	3. Abra o arquivo "index.html" no seu navegador.
+1. Clone este repositório: `git clone https://github.com/thayllaa/Desafio_Flutter`.
+2. Navegue até o diretório do projeto: `cd Desafio_Flutter`.
+3. Abra o arquivo "index.html" no seu navegador.
 
 ## Como Testar o Projeto
 Após abrir o projeto no navegador, você verá um formulário simples. Insira um número, clique no botão "Calcular" e veja o resultado.
