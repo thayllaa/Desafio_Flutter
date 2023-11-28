@@ -20,4 +20,4 @@ Após abrir o projeto no navegador, você verá um formulário simples. Insira u
 Estou aberto a feedbacks e ansioso por novas oportunidades que me permitam continuar crescendo como desenvolvedor.
 Se você tiver alguma dúvida ou sugestão, fique à vontade para compartilhar nos comentários. Obrigado a todos!
 
-#DesafioFlutter #Desenvolvimento #Gratidão #Código #JavaScript
+#DesafioFlutter #Desenvolvimento #Código #JavaScript
