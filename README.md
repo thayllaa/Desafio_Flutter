@@ -1,5 +1,8 @@
 # Desafio Flutter Iniciante
-Este repositório contém soluções para o Desafio Flutter Iniciante em Dart e JavaScript.
+Este repositório contém a solução para o Desafio Flutter Iniciante em JavaScript.
+
+# Descrição do desafio
+Implemente uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
 ## Dart (main.dart)
 ### Como Rodar o Projeto
